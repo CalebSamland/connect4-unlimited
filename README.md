@@ -1,3 +1,6 @@
 # Kenzie Academy Group Project
 
-Follow the instructions provided on my.kenzie.academy for this assignment.
+[Play with me!](https://connect4-unlimited.vercel.app/)
+
+# Play Connect-4
+The classic Connect-4 game built with vanilla js. 
